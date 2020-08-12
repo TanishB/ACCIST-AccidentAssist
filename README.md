@@ -61,7 +61,7 @@ pip3 install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.3/im
 ### Notebooks:-
 * 01 [Video Object Detection]() This notebook guides you to the process of detecting objects in a Video<br>
 
-* 02 [Model Training]() This notebook is focused on Model training. I've used a Pre-Trained model(DenseNet) for the training But the dataset was really rugged so I was able to achieve an accuracy of just 75%. But still it is good for a Prototype Model.<br>
+* 02 [Model Training]() This notebook is focused on Model training. I've used a Pre-Trained model(DenseNet) for the training But the dataset was really rugged so I was able to achieve an accuracy of about 88%. But still it is good for a Prototype Model.<br>
 
 * 03 [Securing Model & Accident detection on Video]() This notebook let you detect accidents from the object detected video. I tried implementing Encrypted Deep Learning but trust me the whole proces got much much slower than it was without it. So I sticked to the normal approach.<br>
 
